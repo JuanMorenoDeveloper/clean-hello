@@ -1,4 +1,4 @@
-package uy.edu.ude;
+package uy.edu.ude.commons;
 
 public class GreetUserStoryRequest implements StoryRequest {
   public final String userId;

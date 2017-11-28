@@ -1,4 +1,4 @@
-package uy.edu.ude;
+package uy.edu.ude.applicationmodel;
 
 public class User {
 

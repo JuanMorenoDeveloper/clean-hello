@@ -1,3 +1,3 @@
-#Clean Architecture Hello World
-###Diagram
+# Clean Architecture Hello World
+### Diagram
 ![Diagram](Diagram.png)
