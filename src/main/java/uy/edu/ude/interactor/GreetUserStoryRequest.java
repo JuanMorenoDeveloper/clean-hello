@@ -1,4 +1,4 @@
-package uy.edu.ude.commons;
+package uy.edu.ude.interactor;
 
 public class GreetUserStoryRequest implements StoryRequest {
   public final String userId;

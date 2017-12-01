@@ -10,12 +10,12 @@ import static org.mockito.Mockito.when;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import uy.edu.ude.applicationmodel.User;
-import uy.edu.ude.commons.GreetUserStoryRequest;
-import uy.edu.ude.commons.GreetUserStoryResponse;
-import uy.edu.ude.commons.StoryRequest;
-import uy.edu.ude.commons.StoryResponse;
 import uy.edu.ude.gateway.UserGateway;
 import uy.edu.ude.interactor.GreetUser;
+import uy.edu.ude.interactor.GreetUserStoryRequest;
+import uy.edu.ude.interactor.GreetUserStoryResponse;
+import uy.edu.ude.interactor.StoryRequest;
+import uy.edu.ude.interactor.StoryResponse;
 import uy.edu.ude.presenter.StoryPresenter;
 import uy.udu.ude.boundary.Story;
 
