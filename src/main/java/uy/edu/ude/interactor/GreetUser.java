@@ -1,9 +1,9 @@
 package uy.edu.ude.interactor;
 
 import uy.edu.ude.applicationmodel.User;
+import uy.edu.ude.boundary.Story;
 import uy.edu.ude.gateway.UserGateway;
 import uy.edu.ude.presenter.StoryPresenter;
-import uy.udu.ude.boundary.Story;
 
 public class GreetUser implements Story {
 

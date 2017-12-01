@@ -10,6 +10,7 @@ import static org.mockito.Mockito.when;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import uy.edu.ude.applicationmodel.User;
+import uy.edu.ude.boundary.Story;
 import uy.edu.ude.gateway.UserGateway;
 import uy.edu.ude.interactor.GreetUser;
 import uy.edu.ude.interactor.GreetUserStoryRequest;
@@ -17,7 +18,6 @@ import uy.edu.ude.interactor.GreetUserStoryResponse;
 import uy.edu.ude.interactor.StoryRequest;
 import uy.edu.ude.interactor.StoryResponse;
 import uy.edu.ude.presenter.StoryPresenter;
-import uy.udu.ude.boundary.Story;
 
 public class GreetUserTest {
 

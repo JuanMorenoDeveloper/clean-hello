@@ -1,4 +1,4 @@
-package uy.udu.ude.boundary;
+package uy.edu.ude.boundary;
 
 import uy.edu.ude.interactor.StoryRequest;
 
